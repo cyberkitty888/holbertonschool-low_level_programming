@@ -36,8 +36,5 @@ int main(void)
         }
         printf("0x%02x", s1[i]);
     }
-    printf("\n");
-    return (0);
-}
 
 
